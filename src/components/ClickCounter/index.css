@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.heading {
+  color: #2d3a35;
+  font-family: 'Roboto';
+  text-align: center;
+}
+.span-element {
+  font-family: 'Roboto';
+  color: #c20a72;
+}
+.description {
+  font-family: 'Roboto';
+  color: #2d3a35;
+  text-align: center;
+}
+.button {
+  background-color: #007bff;
+  color: #ffffff;
+  cursor: pointer;
+  border-color: #007bff;
+  padding: 8px;
+  text-align: center;
+  width: 15vw;
+}
+.div-2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+.div-1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
